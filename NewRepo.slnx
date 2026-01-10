@@ -2,7 +2,5 @@
   <Folder Name="/UIProject/">
     <Project Path="MVCProject/MVCProject.csproj" Id="25ef64e0-7678-4302-851a-4c4cbc55b08c" />
   </Folder>
-  <Folder Name="/webProject/">
-    <Project Path="WebApplication/WebApplication.csproj" Id="e7c0ab5c-1c63-47b6-a14a-1da2bb269b69" />
-  </Folder>
+  <Folder Name="/webProject/" />
 </Solution>
